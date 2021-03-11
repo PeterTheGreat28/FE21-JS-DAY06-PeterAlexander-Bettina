@@ -1,0 +1,77 @@
+let employees = `
+[{
+    "userID": "2848484",
+    "firstName": "Peter",
+    "lastName": "Cardena",
+    "email": "peter@gmail.com",
+    "jobTitle": "BOSS",
+    "salary": "150000"
+}, {
+    "userID": "548784",
+    "firstName": "Bettina",
+    "lastName": "Koerbler",
+    "email": "bettina@gmail.com",
+    "jobTitle": "QUEEN",
+    "salary": "160000"
+}, {
+    "userID": "4848487",
+    "firstName": "Abdulla",
+    "lastName": "AlRakib",
+    "email": "abdu@gmail.com",
+    "jobTitle": "Analyst",
+    "salary": "11000"
+}, {
+    "userID": "8745145187",
+    "firstName": "Theo",
+    "lastName": "Papadopolis",
+    "email": "theo@gmail.com",
+    "jobTitle": "Trainer",
+    "salary": "13400"
+}, {
+    "userID": "989815",
+    "firstName": "Serri",
+    "lastName": "Ghiat",
+    "email": "serri@gmail.com",
+    "jobTitle": "JavaSricpt Pro",
+    "salary": "16000"
+}, {
+    "userID": "4548841",
+    "firstName": "Acilio",
+    "lastName": "Fernandes",
+    "email": "acilio@gmail.com",
+    "jobTitle": "CSS Expert",
+    "salary": "113000"
+}, {
+    "userID": "787498894",
+    "firstName": "Faris",
+    "lastName": "Al-Faris",
+    "email": "faris@gmail.com",
+    "jobTitle": "Consultant",
+    "salary": "12500"
+}, {
+    "userID": "4564721",
+    "firstName": "Ariel",
+    "lastName": "Szabo",
+    "email": "ariel@gmail.com",
+    "jobTitle": "Musician",
+    "salary": "115000"
+}, {
+    "userID": "4788412",
+    "firstName": "Natalia",
+    "lastName": "Jones",
+    "email": "natalia@gmail.com",
+    "jobTitle": "Designer",
+    "salary": "17000"
+}, {
+    "userID": "787984",
+    "firstName": "Michael",
+    "lastName": "Smith",
+    "email": "michael@gmail.com",
+    "jobTitle": "Developer",
+    "salary": "1120"
+}]
+`
+
+
+
+
