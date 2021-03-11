@@ -1,0 +1,20 @@
+let books = `
+[{
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K Rowling",
+    "read": true,
+    "img": "img/Prisoner_of_Azkaban.jpg",
+    "genre":"fantasy"
+}, {
+    "title": "1453",
+    "author": "Roger Crowley",
+    "read": true,
+    "img": "img/crowley.jpg",
+    "genre":"History"
+}, {
+    "title": "Siddhartha",
+    "author": "Herman Hesse",
+    "read": false,
+    "img": "img/hesse.jpg",
+    "genre":"philosophical fiction"
+}]`
